@@ -1,0 +1,4 @@
+.board-line {
+    display: flex;
+    max-height: 200px;
+}
